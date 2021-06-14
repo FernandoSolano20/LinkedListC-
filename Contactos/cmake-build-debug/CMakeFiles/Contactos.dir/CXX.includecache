@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/objects/Contact.h
+xstring
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/List.cpp
+List.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/List.h
+string
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/List.h
+Node.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/Node.h
+../../bl/objects/Contact.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/objects/Contact.h
+xstring
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/Node.h
+../../bl/objects/Contact.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/objects/Contact.h
+
