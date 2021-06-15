@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Lista/MyList.h
+Node.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Lista/Node.h
+string
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Lista/Node.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Lista/main.cpp
+iostream
+-
+MyList.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Lista/MyList.h
+

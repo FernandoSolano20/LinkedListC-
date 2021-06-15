@@ -1,0 +1,3 @@
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Generics/cmake-build-debug/CMakeFiles/Generics.dir
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Generics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Generics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

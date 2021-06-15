@@ -27,6 +27,6 @@ int main()
         cin >> opc;
 
     } while (opc == 1);
-    cout << contactList.showList();
+cout << contactList.showList();
     return 0;
 }
