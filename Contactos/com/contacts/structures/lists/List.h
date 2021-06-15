@@ -15,8 +15,17 @@ public:
     List();
     void addToTop(Contact value);
     string showList();
+    bool isEmpty();
+    string getElement(string name);
+    void add(Contact value);
+    void deleteElement(string name);
+    void deleteByIndex(int index);
+    int getSize();
+    void setSize(int num);
 private:
+    string showContact(Contact contact);
     Node* head;
+    int size;
 };
 
 

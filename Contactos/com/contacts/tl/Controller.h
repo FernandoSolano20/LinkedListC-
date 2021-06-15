@@ -15,7 +15,7 @@ using namespace std;
 class Controller {
 public:
     Controller();
-    Contact* createContact(string name, string lastName, string country, string email);
+    Contact* createContact(int id, string name, string lastName, string country, string email);
 private:
     Business* bl;
 };

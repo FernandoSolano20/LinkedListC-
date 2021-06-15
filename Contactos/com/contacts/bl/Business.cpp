@@ -7,8 +7,9 @@
 Business::Business() {
 }
 
-Contact* Business::create(string name, string lastName, string country, string email) {
+Contact* Business::create(int id, string name, string lastName, string country, string email) {
     Contact* contact = new Contact();
+    contact->setId(id);
     contact->setName(name);
     contact->setLastName(lastName);
     contact->setCountry(country);

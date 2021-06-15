@@ -32,7 +32,7 @@ void MyList::showList() {
 }
 
 bool MyList::isEmpty() {
-    if (size == 0){
+    if (getSize() == 0){
         return true;
     }
     return false;

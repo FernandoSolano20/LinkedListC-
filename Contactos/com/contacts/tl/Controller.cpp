@@ -8,6 +8,6 @@ Controller::Controller() {
     bl = new Business();
 }
 
-Contact* Controller::createContact(string name, string lastName, string country, string email) {
-    return bl->create(name,lastName, country,email);
+Contact* Controller::createContact(int id, string name, string lastName, string country, string email) {
+    return bl->create(id, name,lastName, country,email);
 }

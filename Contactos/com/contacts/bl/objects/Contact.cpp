@@ -5,10 +5,15 @@
 #include "Contact.h"
 
 Contact::Contact() {
+    setId(0);
     setName("");
     setLastName("");
     setCountry("");
     setEmail("");
+}
+
+void Contact::setId(int id) {
+    this->id = id;
 }
 
 void Contact::setName(string name) {
@@ -41,5 +46,9 @@ string Contact::getCountry() {
 
 string Contact::getEmail() {
     return email;
+}
+
+int Contact::getId() {
+    return id;
 }
 

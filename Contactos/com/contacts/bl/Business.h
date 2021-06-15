@@ -11,7 +11,7 @@
 class Business {
 public:
     Business();
-    Contact* create(string name, string lastName, string country, string email);
+    Contact* create(int id, string name, string lastName, string country, string email);
 };
 
 
