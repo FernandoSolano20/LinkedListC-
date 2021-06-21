@@ -12,6 +12,7 @@ List::List() {
 
 void List::addToTop(Contact value) {
     Node* temp = new Node();
+    setSize(1);
     temp->setData(value);
     if(head == nullptr) {
         head = temp;

@@ -21,8 +21,8 @@ public:
     void deleteElement(string name);
     void deleteByIndex(int index);
     int getSize();
-    void setSize(int num);
 private:
+    void setSize(int num);
     string showContact(Contact contact);
     Node* head;
     int size;

@@ -6,12 +6,14 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/Business.h
-objects/Contact.h
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/objects/Contact.h
-
 C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/objects/Contact.h
 xstring
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/List.cpp
+List.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/List.h
+string
 -
 
 C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/List.h
@@ -25,22 +27,4 @@ xstring
 C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/Node.h
 ../../bl/objects/Contact.h
 C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/objects/Contact.h
-
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/tl/Controller.h
-xstring
--
-../bl/Business.h
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/Business.h
-../bl/objects/Contact.h
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/objects/Contact.h
-
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/ui/main.cpp
-iostream
--
-../structures/lists/List.h
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/structures/lists/List.h
-../bl/objects/Contact.h
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/bl/objects/Contact.h
-../tl/Controller.h
-C:/Users/fersolano/Documents/Universidad/Estructura de datos/ListasEnlazadas/Contactos/com/contacts/tl/Controller.h
 
